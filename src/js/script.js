@@ -4,6 +4,8 @@
 
 $(() => {
     console.log("ready!");
+    M.AutoInit();
+    // $('.carousel').carousel();
 });
 
 // $(document).ready(() => {
